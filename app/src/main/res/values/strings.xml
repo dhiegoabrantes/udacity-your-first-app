@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">The First App</string>
+
+
+    <string name="textViewNameLabel">Nome</string>
+    <string name="textViewNameDescription">República Federativa do Brasil</string>
+
+    <string name="textViewDescriptionLabel">Descrição</string>
+    <string name="textViewDescriptionDescription">Brasil, oficialmente República Federativa do Brasil, é o maior país da América do Sul e da região da América Latina, sendo o quinto maior do mundo em área territorial (equivalente a 47% do território sul-americano) e população (com mais de 200 milhões de habitantes). É o único país na América onde se fala majoritariamente a língua portuguesa e o maior país lusófono do planeta, além de ser uma das nações mais multiculturais e etnicamente diversas, em decorrência da forte imigração oriunda de variados locais do mundo.</string>
+
+    <string name="textViewNumberLabel">Número</string>
+    <string name="textViewNumberDescription">+55 99 9 9999-9999</string>
+
+    <string name="textViewAddressLabel">Endereço</string>
+    <string name="textViewAddressDescription">Brasil, América Latina</string>
+
+    <string name="textViewWebsiteLabel">Site</string>
+    <string name="textViewWebsiteDescription">www.brazil.br</string>
+</resources>
